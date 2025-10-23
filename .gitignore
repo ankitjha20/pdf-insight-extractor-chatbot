@@ -1,0 +1,20 @@
+# Environment
+.env
+venv/
+env/
+
+# Database
+db/chroma_db/
+*.faiss
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data
+data/uploads/*.pdf
+
+# IDE
+.vscode/
+.idea/
